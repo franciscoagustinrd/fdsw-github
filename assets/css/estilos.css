@@ -6,7 +6,9 @@ body {
 width: 100px;
 }
 /* Hero Section */
-
+.display-1{
+  color: #212529;
+}
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;

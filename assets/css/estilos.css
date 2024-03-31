@@ -1,7 +1,10 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
+/* logo*/
+.logotipo{
+width: 100px;
+}
 /* Hero Section */
 
 #Hero-Section {
